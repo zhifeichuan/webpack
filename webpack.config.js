@@ -18,7 +18,7 @@ module.exports = {
         root:'d://testWebpack/src',
         extensions:['','.js','.json','.css'],
         alias:{
-            shortName1:'/js/page1/index.js'
+        shortName1:'/js/page1/index.js'
         }
     }
 
