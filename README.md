@@ -1,6 +1,7 @@
 # webpack
 webpack基础配置
 var webpack = require('webpack');
+
 module.exports = {
     //入口文件
     entry:'js/page1/index.js',
